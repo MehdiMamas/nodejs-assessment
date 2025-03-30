@@ -1,0 +1,6 @@
+[submodule "app"]
+	path = app
+	url = https://github.com/MehdiMamas/nodejs-assessment-app/
+[submodule "server"]
+	path = server
+	url = https://github.com/MehdiMamas/nodejs-assessment-server/
